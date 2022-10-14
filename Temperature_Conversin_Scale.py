@@ -1,5 +1,5 @@
 
-''' Temperature conversion scale form Celcuis to Fahrenheit ,kelvin to Fahrenheit ,Celcius to Kelvin and viceverso
+''' Temperature conversion scale form Celcuis to Fahrenheit ,kelvin to Fahrenheit ,Celcius to Kelvin and viceversa
  develped by M Sathya Kumar 14-10-2022
 
 '''
